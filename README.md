@@ -1,1 +1,5 @@
-# python_tutorial1
+# python_tutorial
+
+IDE: PyCharm
+
+first.py includes variables, loops, functions, lists, range
