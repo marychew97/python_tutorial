@@ -11,6 +11,6 @@ fourth.py includes how to handle exceptions, classes and objects, init function,
 Titles with links and the details are extracted from the website https://www.nomadicmatt.com/ using python (requests)
 
 # Web Frequency Counter
-Extracted from the website https://www.nomadicmatt.com/travel-blog using requests <br>
+Extracted from the website http://www.health.com/beauty/model-iskra-lawrence-body-positivity-instagram using requests <br>
 Extract words, remove symbols and count the word frequency
 
