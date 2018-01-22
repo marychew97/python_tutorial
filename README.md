@@ -12,5 +12,5 @@ Titles with links and the details are extracted from the website https://www.nom
 
 # Web Frequency Counter
 Extracted from the website https://www.nomadicmatt.com/travel-blog using requests <br>
-Extracted words, remove symbols and count the word frequency
+Extract words, remove symbols and count the word frequency
 
