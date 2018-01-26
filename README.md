@@ -7,7 +7,7 @@ second.py includes keyword arguments, flexible number of arguments, unpacking ar
 third.py includes modules, image downloading from web, read and write files (sample.txt), csv file downloading from web (goog.csv)<br><br>
 fourth.py includes how to handle exceptions, classes and objects, init function, class versus instance variables, inheritance, multiple inheritance, threading<br><br>
 fifth.py includes unpack list or tuples, zip function, lambda, min and max and sorting dictionaries, pillow, cropping images, combining images together<br><br>
-sixth.py includes getting individual channels that split the image rgb colors, merging the rgb colors, basic transformation of the images like resize, flip and rotate, modes and filters
+sixth.py includes getting individual channels that split the image rgb colors, merging the rgb colors, basic transformation of the images like resize, flip and rotate, modes and filters, struct, map function, etc.
 
 # Web Crawler
 Titles with links and the details are extracted from the website https://www.nomadicmatt.com/ using python (requests)
